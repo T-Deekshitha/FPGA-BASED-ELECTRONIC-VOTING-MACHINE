@@ -1,5 +1,5 @@
 The electronic voting machine is an electronic device used for casting and counting votes and displaying number of votes. in this project verilog is used to code and Nexys 4 FPGA is used to implement verilog code.
-4 push buttons are used for voters to cast their votes.
+4 push buttons are used for voters to cast their votes. LEDs are used to represent the candidate whose button is pressed. 8 LEDs are used to represent number of votes casted.
 
 INPUTS:
 
